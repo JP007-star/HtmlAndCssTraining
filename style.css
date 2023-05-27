@@ -1,0 +1,35 @@
+
+#card{
+    text-align: center;
+    width: 1000px;
+}
+form {
+    justify-content: center;
+    background-color: #f1f3f8;
+    width: max-content;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(193, 193, 251);
+
+}
+
+#submit {
+    text-align: center;
+}
+
+button {
+    border-radius: 10px;
+    border: #f1f3f8;
+    padding: 8px;
+    margin: 10px;
+    background-color: #9689f4;
+    color: aqua;
+}
+
